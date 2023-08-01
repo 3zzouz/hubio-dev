@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/hubio-test/static/css/main.7b7aab5b.css",
-    "main.js": "/hubio-test/static/js/main.f4e1014f.js",
+    "main.js": "/hubio-test/static/js/main.14baa9a3.js",
     "static/media/Math.2a9c3ce8 (1) (3).webp": "/hubio-test/static/media/Math.2a9c3ce8 (1) (3).ae81ddb7d804db73995e.webp",
     "static/media/revicons.eot": "/hubio-test/static/media/revicons.a77de540a38981833f9e.eot",
     "static/media/revicons.ttf": "/hubio-test/static/media/revicons.57fd05d4ae650374c8de.ttf",
@@ -9,10 +9,10 @@
     "index.html": "/hubio-test/index.html",
     "static/media/warning.svg": "/hubio-test/static/media/warning.778dae2bebb85cf24060.svg",
     "main.7b7aab5b.css.map": "/hubio-test/static/css/main.7b7aab5b.css.map",
-    "main.f4e1014f.js.map": "/hubio-test/static/js/main.f4e1014f.js.map"
+    "main.14baa9a3.js.map": "/hubio-test/static/js/main.14baa9a3.js.map"
   },
   "entrypoints": [
     "static/css/main.7b7aab5b.css",
-    "static/js/main.f4e1014f.js"
+    "static/js/main.14baa9a3.js"
   ]
 }
